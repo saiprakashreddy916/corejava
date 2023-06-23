@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c0f7c3b-80ec-49e2-907e-591de74b37c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Games Using java/tic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-hibernate" beforeDir="false" afterPath="$PROJECT_DIR$/spring-hibernate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-hibernate/src/main/java/com/hashedin/repository/TaskRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-hibernate/src/main/java/com/hashedin/repository/TaskRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-hibernate/src/main/resources/jpaContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-hibernate/src/main/resources/jpaContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa-hibernate-one-to-many" beforeDir="false" afterPath="$PROJECT_DIR$/spring-jpa-hibernate-one-to-many" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa-hibernate-one-to-many/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-jpa-hibernate-one-to-many/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather-api-rest" beforeDir="false" afterPath="$PROJECT_DIR$/weather-api-rest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather-api-rest/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RaAZMadZDBjznjXaYpy1cSkI7z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/corejava"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c0f7c3b-80ec-49e2-907e-591de74b37c1" name="Changes" comment="" />
+      <created>1687477873700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687477873700</updated>
+    </task>
+    <servers />
+  </component>
+</project>

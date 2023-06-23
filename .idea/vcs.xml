@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring-Rest-Template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-hibernate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-jpa-hibernate-one-to-many" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/weather-api-rest" vcs="Git" />
+  </component>
+</project>
